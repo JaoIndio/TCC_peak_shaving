@@ -1,4 +1,4 @@
-# TCC_peak_shaving
+# TCC peak shaving
 SCADA da unidade de Geração
 
 
