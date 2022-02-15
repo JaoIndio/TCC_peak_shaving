@@ -3,7 +3,7 @@ SCADA da unidade de Geração
 
 
 Organização do Repositório:
-
+--------------------------------------------------------------------------------------------
   Classes/
     -Definição da classe Parametros_IO
        Parametros_IO.py
