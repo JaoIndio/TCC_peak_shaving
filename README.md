@@ -4,6 +4,10 @@ SCADA da unidade de Geração
 
 Organização do Repositório:
 --------------------------------------------------------------------------------------------
+  Documentação do Protocolo ModBus do Fabricante do Inversor
+        
+        Inverter_Protocol.pdf
+        
   Classes/
  
         Definição da classe Parametros_IO:
